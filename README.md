@@ -5,7 +5,10 @@ we propose an online classification system for walnut samples from the Lara and 
 ## Features
 - Feature extraction from audio signals
 - R
-
 ## Installation
 ```bash
+git clone https://github.com/azinmoradbeikie/OnlineNutsClassification.git
+cd OnlineNutsClassification
 pip install -r requirements.txt
+
+
