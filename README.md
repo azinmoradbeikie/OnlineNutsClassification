@@ -10,7 +10,10 @@ we propose an online classification system for walnut samples from the Lara and 
 git clone https://github.com/azinmoradbeikie/OnlineNutsClassification.git
 cd OnlineNutsClassification
 pip install -r requirements.txt
+```
 
 ## Usage
 ```bash
 python main.py
+```
+
